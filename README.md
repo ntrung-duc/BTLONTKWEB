@@ -93,11 +93,6 @@ BTLONTKWEB/
 - **Hotline tài chính**: 090605075
 - **Hotline bảo hiểm**: 0704702841
 
-## 🤝 Liên Kết Xã Hội
-
-- [Facebook](https://www.facebook.com/profile.php?id=100009680653670)
-- [Instagram](https://www.instagram.com/trungduc.__/)
-
 ## 🎯 Danh Sách Hãng Xe Có Sẵn
 
 | Hãng Xe | Loại Xe | Giá Từ |
@@ -126,10 +121,7 @@ BTLONTKWEB/
 - Dữ liệu ô tô và giá cả chỉ mang tính minh họa
 - Một số tính năng như thanh toán còn đang trong quá trình phát triển
 
-## 👨‍💻 Tác Giả
 
-**Tên**: Nguyễn Trung Đức  
-**GitHub**: [@ntrung-duc](https://github.com/ntrung-duc)
 
 ## 📄 License
 
